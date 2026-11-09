@@ -1,0 +1,6 @@
+[
+  { "name": "home", "path": "/" },
+  { "name": "projects", "path": "/projects?sort=updated" },
+  { "name": "project-detail", "from": "/projects", "linkPattern": "^/projects/[^/]+$" },
+  { "name": "settings", "path": "/settings" }
+]

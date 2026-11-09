@@ -1,0 +1,20 @@
+{
+  "name": "product-ui-skills",
+  "version": "1.0.0",
+  "description": "Build application UI that works like a good tool and looks like your product, not like a template or an AI default.",
+  "author": {
+    "name": "Lukas Neumann",
+    "url": "https://github.com/lksnmnn"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "design",
+    "design-system",
+    "accessibility",
+    "review"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/lksnmnn/product-ui-skills",
+  "homepage": "https://github.com/lksnmnn/product-ui-skills"
+}

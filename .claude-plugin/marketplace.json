@@ -1,0 +1,14 @@
+{
+  "name": "product-ui-skills",
+  "description": "Claude Code skills for application UI that works like a good tool and looks like your product.",
+  "owner": {
+    "name": "Lukas Neumann", "url": "https://github.com/lksnmnn"
+  },
+  "plugins": [
+    {
+      "name": "product-ui-skills",
+      "source": "./",
+      "description": "product-ui and design-direction: rules, review and a visual-direction interview for application UI."
+    }
+  ]
+}
